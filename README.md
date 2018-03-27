@@ -2,7 +2,7 @@
 
 Great for Vim!
 
-Remaps Capslock to Esc
+Remaps Capslock to Esc (https://autohotkey.com/docs/misc/Remap.htm)
 
 Shift + Capslock will still activate normal Capslock functionality.
 
